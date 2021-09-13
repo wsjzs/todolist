@@ -1,4 +1,7 @@
 # todolist
+1.使用npm install安装依赖
+2.npm run serve运行或npm run build打包
+
 
 ## Project setup
 ```
